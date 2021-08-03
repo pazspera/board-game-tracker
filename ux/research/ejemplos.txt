@@ -1,0 +1,32 @@
+Lista de Features
+
+NEMESTATS
+- Agregar juego (fecha, juego, jugadores, resultado partida, notas)
+- Agregar grupo de juego
+- Organizar grupos de juego
+- Crear jugadores
+- Achievements
+- Top de jugadores y grupos de juegos
+- Lista de juegos trending y recientes
+
+SCOREPAL
+- Agregar jugadores
+- Agregar grupos de juego
+- Agregar lugares de juego
+- Agregar juego
+- Búsqueda automática de juegos en BGG
+- Agregar partidas 
+
+CLEPSYDRIS
+- Timeline de partidas jugadas ordenada cronológicamente
+- Listado de colección de juegos
+- Agregar jugadores
+- Agregar lugares de juego
+- Agregar partida de juego (posibilidad de agregar cronómetro y usar tiempos por jugador)
+- Agregar equipos/roles a los jugadores en caso de jugar juegos cooperativos
+- Agregar fotos al registro de cada partida
+- Consultar estadísticas por partida y jugador (Premium)
+- Conexión con BoardGameGeek (Premium)
+
+
+ 

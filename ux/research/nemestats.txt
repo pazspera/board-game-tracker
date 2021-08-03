@@ -1,0 +1,6 @@
+https://nemestats.com/
+
+- Uses Gaming Groups where you can create other users to keep track of who wins
+- The users can be connected with each other
+- Uses form fields, the design is not very attractive
+
